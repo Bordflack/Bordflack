@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Bordflack
 - 👀 I’m interested in Coding and art
-- 🌱 I’m currently learning Python, C and some other things
+- 🌱 I’m currently learning Python and C in my free time 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
